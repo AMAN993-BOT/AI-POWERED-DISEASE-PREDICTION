@@ -1,5 +1,8 @@
-# 🩺 Disease Prediction App – AI-Driven Symptom Checker
+# 🩺 Disease Prediction App – AI-Driven Symptom Checker 
 ![App Demo](doctor-400_256.gif)
+
+# Be Your Own Doctor 
+
 A smart web application designed to predict possible diseases based on user-entered symptoms. Built to assist individuals in remote or underdeveloped areas with limited access to healthcare. By leveraging machine learning and doctor-verified data, the app provides initial predictions and suggests basic precautions. It empowers early awareness and supports better health decisions where professional consultation is unavailable.
 
 🔹 Built with: Python, Machine Learning, Streamlit

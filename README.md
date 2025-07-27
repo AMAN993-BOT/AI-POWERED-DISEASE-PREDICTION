@@ -10,5 +10,6 @@ A smart web application designed to predict possible diseases based on user-ente
 🔹 Features: Symptom-based prediction, precaution suggestions, accessible UI
 
 🔹 Impact: Can assist in basic health assessment in rural or underserved regions
+
 [View Website ->](https://ai-powered-disease-prediction-6396gr7cnvuns6ce6ocjve.streamlit.app/)
 
